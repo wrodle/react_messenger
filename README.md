@@ -1,10 +1,7 @@
 
 <h1 align="center">Messenger on react.</h1>
 
-Видео на ютуб:
-
-
-:movie_camera:[Ютуб](https://www.youtube.com/watch?v=mrVp7lBf0vk)
+:movie_camera:[Ссылка на ютуб видео](https://www.youtube.com/watch?v=mrVp7lBf0vk)
 
 ![Screenshot](home.png)
 
