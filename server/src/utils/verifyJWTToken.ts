@@ -1,4 +1,3 @@
-// @ts-ignore
 import jwt from 'jsonwebtoken'
 
 function verifyJWTToken(token: any) {

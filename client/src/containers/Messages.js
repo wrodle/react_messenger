@@ -1,13 +1,9 @@
-import React, {useEffect, useState, useRef} from 'react';
+import React, {useEffect, useRef} from 'react';
 import {useSelector, useDispatch} from "react-redux";
 
 import {Messages as BaseMessages} from '../components'
 import {dialogsActions, messagesActions} from '../redux/actions'
-import dialogsReducer from "../redux/reducers/dialogs";
 import socket from "../core/socket";
-import messagesReducer from "../redux/reducers/messages";
-import userReducer from "../redux/reducers/user";
-
 
 const Dialogs = ({ userId }) => {
     const dispatch = useDispatch()

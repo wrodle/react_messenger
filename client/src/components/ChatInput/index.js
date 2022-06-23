@@ -1,5 +1,4 @@
-import React, {useEffect, useRef, useState} from 'react';
-import classNames from "classnames";
+import React, {useState} from 'react';
 import {Button, Input} from 'antd';
 import {SendOutlined} from "@ant-design/icons";
 import './ChatInput.scss';
@@ -9,7 +8,6 @@ import {useSelector} from "react-redux";
 
 const ChatInput = ({ children, className }) => {
     const [value, setValue] = useState('')
-    const ref = useRef()
     const currentDialog = useSelector(state => state.dialogsReducer.currentDialog)
 
     const sendMessage = (e) => {

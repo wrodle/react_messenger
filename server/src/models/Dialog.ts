@@ -1,5 +1,4 @@
 import mongoose, { Schema } from "mongoose";
-import isEmail from 'validator/lib/isEmail'
 
 export interface IDialog{
     partner: {

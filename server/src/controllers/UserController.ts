@@ -1,7 +1,6 @@
 import express from "express";
 import { UserModel } from '../models';
 import { createJWTToken } from "../utils";
-import user from "../models/User";
 const bcrypt = require('bcrypt');
 class UserController {
 

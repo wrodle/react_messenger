@@ -5,12 +5,10 @@ import {Link} from 'react-router-dom'
 import {MailOutlined} from "@ant-design/icons";
 import { useNavigate } from "react-router-dom";
 import '../../../pages/Auth/Auth.scss'
-import {validateField} from "../../../utils/helpers";
 
 import {userActions} from '../../../redux/actions'
 
 import { Formik } from 'formik';
-import validateFunc from "../../../utils/validate";
 import {useDispatch} from "react-redux";
 
 const LoginForm = () => {
@@ -34,8 +32,6 @@ const LoginForm = () => {
             >
                 {(props) => {
                     const {
-                        touched,
-                        errors,
                         handleChange,
                         handleBlur,
                         handleSubmit,

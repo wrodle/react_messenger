@@ -1,7 +1,7 @@
 import React from 'react';
-import {TeamOutlined, FormOutlined, EllipsisOutlined} from "@ant-design/icons";
+import {TeamOutlined, FormOutlined} from "@ant-design/icons";
 import {Button} from 'antd';
-import {Status, ChatInput} from "../../components";
+import {ChatInput} from "../../components";
 import { Dialogs, Messages } from '../../containers'
 import './Home.scss';
 

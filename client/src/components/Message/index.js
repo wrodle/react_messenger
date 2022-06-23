@@ -5,9 +5,7 @@ import classNames from "classnames";
 
 import {convertCurrentTime} from '../../utils/helpers'
 import './Message.scss';
-import readedSvg from '../../assets/img/readed.svg';
-import noreadedSvg from '../../assets/img/noreaded.svg';
-import {Time, IconReaded, Avatar} from "../";
+import {Time, Avatar} from "../";
 import pauseSvg from '../../assets/img/icons/pause.svg';
 import playSvg from '../../assets/img/icons/play.svg';
 import waveSvg from '../../assets/img/wave.svg';

@@ -1,5 +1,4 @@
 import React from 'react';
-import classNames from "classnames";
 
 import './Avatar.scss';
 import {generateAvatar} from "../../utils/helpers";

@@ -1,14 +1,10 @@
 import React from 'react';
-import PropTypes from 'prop-types'
 
 import classNames from "classnames";
 
 import './Messages.scss';
-import {Empty, Spin} from "antd";
+import {Empty} from "antd";
 import {Message} from "../";
-import {useSelector} from "react-redux";
-import messagesReducer from "../../redux/reducers/messages";
-
 
 const Messages = ({ blockRef, isLoading, items, user }) => {
 
