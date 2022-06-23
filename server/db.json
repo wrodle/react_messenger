@@ -1,0 +1,275 @@
+{
+  "dialogs": [
+    {
+      "_id": "0f4e39e6-a838-4b61-a57d-188d25fb56ee",
+      "text": "consectetur in ullamco dolore",
+      "created_at": "1975-03-17T05:04:25.246Z",
+      "user": {
+        "_id": "e306a54b-ae7a-4ca5-b924-408e996b90d3",
+        "fullname": "Dale Church",
+        "avatar": null,
+        "isOnline": true
+      }
+    },
+    {
+      "_id": "b05eb77e-bb32-4c50-b033-db817cb11dc1",
+      "text": "laboris eu ullamco qui",
+      "created_at": "1989-05-14T11:49:57.030Z",
+      "user": {
+        "_id": "af5ad3e1-b1ca-4ae7-bbda-b69c0d24dfd9",
+        "fullname": "Wilkerson Franco",
+        "avatar": null,
+        "isOnline": false
+      }
+    },
+    {
+      "_id": "e7d575d4-1c96-4fd9-9375-6113c8ac6bb6",
+      "text": "minim officia exercitation eu",
+      "created_at": "2004-03-05T04:08:56.461Z",
+      "user": {
+        "_id": "0aa50c3d-fcca-47f1-b740-fe3b00c3a951",
+        "fullname": "Leah Hull",
+        "avatar": null,
+        "isOnline": false
+      }
+    },
+    {
+      "_id": "377c4a33-81ab-48c8-b79f-2bc505f5cecb",
+      "text": "reprehenderit adipisicing id do",
+      "created_at": "2019-06-14T07:29:57.267Z",
+      "user": {
+        "_id": "94a4cc38-7f02-47cf-81e7-df183fcf658b",
+        "fullname": "Carson Hendricks",
+        "avatar": null,
+        "isOnline": false
+      }
+    },
+    {
+      "_id": "91fc5faa-b1c6-4aa0-8e33-97f6c9143e54",
+      "text": "do reprehenderit aute aute",
+      "created_at": "2009-09-06T19:08:29.846Z",
+      "user": {
+        "_id": "f480aa1a-ed6a-4bdd-89c1-8279dfd1384f",
+        "fullname": "Judith Horton",
+        "avatar": null,
+        "isOnline": true
+      }
+    },
+    {
+      "_id": "fa59157f-838e-4631-9bc1-035534f7be8d",
+      "text": "sunt ad mollit laboris",
+      "created_at": "1970-03-13T06:00:58.132Z",
+      "user": {
+        "_id": "017726d7-d5ee-4ed5-a10e-071d40ad60f1",
+        "fullname": "Jones Hickman",
+        "avatar": null,
+        "isOnline": false
+      }
+    },
+    {
+      "_id": "39a71bb1-bbaa-4a38-9f30-21d21eec95b8",
+      "text": "eiusmod magna dolore aliquip",
+      "created_at": "1981-01-06T16:08:32.521Z",
+      "user": {
+        "_id": "ef4bc51c-e42a-470f-9bd9-985b120af951",
+        "fullname": "Ivy Villarreal",
+        "avatar": null,
+        "isOnline": false
+      }
+    },
+    {
+      "_id": "40c6252f-f6a8-4190-b246-e7f74d7d80eb",
+      "text": "mollit ut sunt dolore",
+      "created_at": "2013-09-12T00:15:07.895Z",
+      "user": {
+        "_id": "6613b9f5-2cc8-4505-90af-707afacb1f5f",
+        "fullname": "Lynch Snider",
+        "avatar": null,
+        "isOnline": true
+      }
+    },
+    {
+      "_id": "fb3c253e-a6ff-45da-80e5-60a508abb858",
+      "text": "cupidatat amet voluptate quis",
+      "created_at": "2017-03-06T00:37:48.369Z",
+      "user": {
+        "_id": "c1f53878-aaf2-4d7f-b824-76487fe82069",
+        "fullname": "Duncan Estrada",
+        "avatar": null,
+        "isOnline": true
+      }
+    },
+    {
+      "_id": "9e412c79-6e41-4be7-8616-93dc3362d787",
+      "text": "elit sit exercitation ullamco",
+      "created_at": "2019-10-06T18:02:49.019Z",
+      "user": {
+        "_id": "7545be84-790b-47f2-8ffc-cb61ad3c6d67",
+        "fullname": "Carrillo Levine",
+        "avatar": "https://i.pinimg.com/564x/53/f8/2d/53f82da14e51ae01ce153ba278d3e10d.jpg",
+        "isOnline": true
+      }
+    }
+  ],
+  "messages": [
+    {
+      "_id": "0f4e39e6-a838-4b61-a57d-188d25fb56ee",
+      "text": "consectetur in ullamco dolore",
+      "created_at": "1975-03-17T05:04:25.246Z",
+      "user": {
+        "_id": "e306a54b-ae7a-4ca5-b924-408e996b90d3",
+        "fullname": "Dale Church",
+        "avatar": null,
+        "isOnline": true
+      }
+
+    },
+    {
+      "_id": "b05eb77e-bb32-4c53-b033-db817cb11dc1",
+      "text": "Привет \uD83D\uDE00",
+      "created_at": "1989-05-14T11:49:57.030Z",
+      "user": {
+        "_id": "af5ad3e1-b1ca-4ae7-bbda-b69c0d24dfd9",
+        "fullname": "Wilkerson Franco",
+        "avatar": null,
+        "isOnline": false
+      },
+      "dialog": "b05eb77e-bb32-4c50-b033-db817cb11dc1"
+    },
+    {
+      "_id": "e7d575d4-1c96-4fd9-9375-6113c8ac6bb6",
+      "text": "minim officia exercitation eu",
+      "created_at": "2004-03-05T04:08:56.461Z",
+      "user": {
+        "_id": "0aa50c3d-fcca-47f1-b740-fe3b00c3a951",
+        "fullname": "Leah Hull",
+        "avatar": null,
+        "isOnline": false
+      },
+      "dialog": "e7d575d4-1c96-4fd9-9375-6113c8ac6bb6"
+    },
+    {
+      "_id": "91fc5faa-b1c6-4aa0-8e33-97f6c9143e54",
+      "text": "do reprehenderit aute aute",
+      "created_at": "2009-09-06T19:08:29.846Z",
+      "user": {
+        "_id": "f480aa1a-ed6a-4bdd-89c1-8279dfd1384f",
+        "fullname": "Judith Horton",
+        "avatar": null,
+        "isOnline": true
+      },
+      "dialog": "91fc5faa-b1c6-4aa0-8e33-97f6c9143e54"
+    },
+    {
+      "_id": "fa59157f-838e-4631-9bc1-035534f7be8d",
+      "text": "sunt ad mollit laboris",
+      "created_at": "1970-03-13T06:00:58.132Z",
+      "user": {
+        "_id": "017726d7-d5ee-4ed5-a10e-071d40ad60f1",
+        "fullname": "Jones Hickman",
+        "avatar": null,
+        "isOnline": false
+      },
+      "dialog": "fa59157f-838e-4631-9bc1-035534f7be8d"
+    },
+    {
+      "_id": "39a71bb1-bbaa-4a38-9f30-21d21eec95b8",
+      "text": "eiusmod magna dolore aliquip",
+      "created_at": "1981-01-06T16:08:32.521Z",
+      "user": {
+        "_id": "ef4bc51c-e42a-470f-9bd9-985b120af951",
+        "fullname": "Ivy Villarreal",
+        "avatar": null,
+        "isOnline": false
+      },
+      "dialog": "39a71bb1-bbaa-4a38-9f30-21d21eec95b8"
+    },
+    {
+      "_id": "40c6252f-f6a8-4190-b246-e7f74d7d80eb",
+      "text": "mollit ut sunt dolore",
+      "created_at": "2013-09-12T00:15:07.895Z",
+      "user": {
+        "_id": "6613b9f5-2cc8-4505-90af-707afacb1f5f",
+        "fullname": "Lynch Snider",
+        "avatar": null,
+        "isOnline": true
+      },
+      "dialog": "40c6252f-f6a8-4190-b246-e7f74d7d80eb"
+    },
+    {
+      "_id": "fb3c253e-a6ff-45da-80e5-60a508abb858",
+      "text": "cupidatat amet voluptate quis",
+      "created_at": "2017-03-06T00:37:48.369Z",
+      "user": {
+        "_id": "c1f53878-aaf2-4d7f-b824-76487fe82069",
+        "fullname": "Duncan Estrada",
+        "avatar": null,
+        "isOnline": true
+      },
+      "dialog": "fb3c253e-a6ff-45da-80e5-60a508abb858"
+    },
+    {
+      "_id": "377c4a33-81ab-48c8-b79f-2bc505f5cecb",
+      "text": "reprehenderit adipisicing id do",
+      "created_at": "2019-06-14T07:29:57.267Z",
+      "user": {
+        "_id": "94a4cc38-7f02-47cf-81e7-df183fcf658b",
+        "fullname": "Carson Hendricks",
+        "avatar": null,
+        "isOnline": false
+      },
+      "dialog": "377c4a33-81ab-48c8-b79f-2bc505f5cecb"
+    },
+    {
+      "_id": "9e412c78-6e43-4be7-8616-93dc3362d787",
+      "attachments": [
+        {
+          "url": "https://images.unsplash.com/photo-1655358879434-268583730204?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "filename": "photo"
+        }
+      ],
+      "created_at": "2019-10-06T18:02:49.019Z",
+      "user": {
+        "_id": "7545be84-790b-47f2-8ffc-cb61ad3c6d67",
+        "fullname": "Carrillo Levine",
+        "avatar": "https://i.pinimg.com/564x/53/f8/2d/53f82da14e51ae01ce153ba278d3e10d.jpg",
+        "isOnline": true
+      },
+      "dialog": "9e412c79-6e41-4be7-8616-93dc3362d787"
+    },
+    {
+      "_id": "9e412c79-6e43-4be7-8616-93dc3362d787",
+      "text": "cupidatat amet voluptate quis",
+      "attachments": [
+        {
+          "url": "https://images.unsplash.com/photo-1655358879434-268583730204?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "filename": "photo"
+        },
+        {
+          "url": "https://images.unsplash.com/photo-1655358879434-268583730204?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+          "filename": "photo"
+        }
+      ],
+      "created_at": "2019-10-06T18:02:49.019Z",
+      "user": {
+        "_id": "7545be84-790b-47f2-8ffc-cb61ad3c6d67",
+        "fullname": "Carrillo Levine",
+        "avatar": "https://i.pinimg.com/564x/53/f8/2d/53f82da14e51ae01ce153ba278d3e10d.jpg",
+        "isOnline": true
+      },
+      "dialog": "9e412c79-6e41-4be7-8616-93dc3362d787"
+    },
+    {
+      "_id": "9e412376-6e41-4be7-8616-93dc3362d787",
+      "text": "cupidatat amet voluptate quis",
+      "created_at": "2019-10-06T18:02:49.019Z",
+      "user": {
+        "_id": "7545be84-7903-47f2-8ffc-cb61ad3c6d67",
+        "fullname": "Carrillo Levine",
+        "avatar": "https://i.pinimg.com/564x/53/f8/2d/53f82da14e51ae01ce153ba278d3e10d.jpg",
+        "isOnline": true
+      },
+      "dialog": "9e412c79-6e41-4be7-8616-93dc3362d787"
+    }
+  ]
+}

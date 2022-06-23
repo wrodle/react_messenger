@@ -1,0 +1,105 @@
+@import "../../styles/variables.scss";
+
+.dialogs {
+  &__item {
+    display: flex;
+    transition: all 0.1s ease-in;
+    &-avatar {
+      flex: 0 0 40px;
+      margin-right: 10px;
+      img {
+        width: 40px;
+        height: 40px;
+        border-radius: 100%;
+        object-fit: cover;
+      }
+    }
+    &--online {
+      .dialogs__item-avatar {
+        position: relative;
+        &::before {
+          content: '';
+          background: $green;
+          border-radius: 100%;
+          width: 13px;
+          height: 13px;
+
+          display: block;
+          position: absolute;
+          bottom: -2px;
+          right: 0;
+
+          border: 3px solid #fff;
+        }
+      }
+    }
+
+    &-info {
+      flex: 1 1 auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+
+      line-height: 1;
+      &-top {
+        display: flex;
+        b {
+          font-weight: 500;
+          font-size: 14px;
+          flex: 1 1 auto;
+          margin-bottom: 6px;
+        }
+        span {
+          opacity: 0.5;
+        }
+      }
+      &-bottom {
+        position: relative;
+        p {
+          margin-bottom: 0;
+          opacity: 0.5;
+
+          text-overflow: ellipsis;
+          width: 220px;
+          height: 1.2em;
+          white-space: nowrap;
+          overflow: hidden;
+        }
+        &-count {
+          position: absolute;
+          right: 0;
+          bottom: 0;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          font-size: 11px;
+          text-align: center;
+          line-height: 18px;
+
+          background: #f46b6b;
+          color: #fff;
+          font-weight: 500;
+          height: 18px;
+          border-radius: 100%;
+          box-shadow: 0 0 0 3px #fff;
+
+          width: 100%;
+          min-width: 18px;
+          max-width: 22px;
+        }
+
+        .message__icon-read {
+          bottom: 0;
+          right: 0;
+          left: auto;
+          transform: none;
+        }
+      }
+    }
+
+    &--selected {
+      background-color: #F3F7FF;
+    }
+  }
+}
